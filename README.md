@@ -1,3 +1,3 @@
-В рамках проекта, мы собираем, анализируем и классифицируем различные задачи, которые обычно задаются на собеседованиях на позиции, связанные с Python. Задачи варьируются от простых задач на понимание основ Python и стандартных алгоритмов, до сложных задач на знание специфических библиотек и фреймворков.
+Within the project, we collect, analyze and classify various tasks that are commonly asked in Python-related job interviews. The tasks range from simple questions on understanding the basics of Python and standard algorithms to more complex problems that require knowledge of specific libraries and frameworks.
 
-Цель "Python Interview Tasks" — помочь каждому участнику стать более квалифицированным и конкурентоспособным на рынке труда в области IT.
+The goal of "Python Interview Tasks" is to help each participant become more qualified and competitive in the IT job market.
