@@ -1,1 +1,0 @@
-IT-InterviewTasks is a comprehensive collection of questions and solutions. Whether you're a beginner preparing for your first technical interview or an experienced developer brushing up on coding skills, this repository provides a valuable resource to help you succeed in IT interviews.
